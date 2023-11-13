@@ -1,4 +1,4 @@
-# Bike Sharing Dashboard ✨
+# Bike Sharing Dashboard 🚴‍♂️
 
 ## Setup environment
 ```
@@ -12,7 +12,7 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 streamlit run streamlit_app.py
 ```
 
-## Or Check It Out On
+## Check It Out On
 [(https://st-hello-app.streamlit.app/)](https://garr007-dicoding-final-project.streamlit.app/)https://garr007-dicoding-final-project.streamlit.app/
 
 
